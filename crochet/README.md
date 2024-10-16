@@ -5,7 +5,7 @@ In this project, we
 - build a CNN classifier of crochet vs. knitting images
 - utilize pytorch to build a neural network composed of convolutional, pooling, ReLU, normalization and fully connected layers
 - collect a pool of 1,400 images using the BeautifulSoup and Selenium packages
-- clean our images and perform data augmentations/transformations
+- clean our image dataset and perform data augmentations/transformations
 - achieve a test accuracy of 70% 
 
 And while we're here! Below are some of the creations I've made:
