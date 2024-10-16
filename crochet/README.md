@@ -9,3 +9,7 @@ In this project, we
 - achieve a test accuracy of 70% 
 
 And while we're here! Below are some of the creations I've made:
+![0D1B8D14-3F7F-41E8-987B-16C950E92291_1_105_c](https://github.com/user-attachments/assets/9091da5f-a3ca-43da-863b-0563b2696782)
+![3CE19B52-477F-4F67-9F54-0DAAABFA1577_1_105_c](https://github.com/user-attachments/assets/2418fa1e-2913-44af-9a21-1a30f73f8bc9)
+![182106E1-2452-4ACB-9847-2BC85AFEA1C5_1_105_c](https://github.com/user-attachments/assets/93af9c87-edba-4b3f-9f8e-d1e1df2796aa)
+![DB6660EB-BB41-49C9-9DF6-6A75FCA4379F_1_105_c](https://github.com/user-attachments/assets/0b572c04-9559-4d6c-a0f4-372319a84bd1)
