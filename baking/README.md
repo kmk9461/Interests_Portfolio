@@ -9,10 +9,10 @@ In this project, we
 
 And of course we can't leave without dropping some of my favorite recipes (shout out to Sally, she never steers me wrong)!
 
-![66464850121__8DB3CFC0-0296-4E88-8EFE-1C5B1A804EC7](https://github.com/user-attachments/assets/8f11f245-f20f-4806-8700-106bb167cfee| height=48px)
+![66464850121__8DB3CFC0-0296-4E88-8EFE-1C5B1A804EC7](https://github.com/user-attachments/assets/8f11f245-f20f-4806-8700-106bb167cfee)
 recipe: https://sallysbakingaddiction.com/chewy-chocolate-chip-cookies/
 
-![IMG_3678](https://github.com/user-attachments/assets/4562f1a6-f375-461c-88b1-4c8e0635615c)| height=48px
+![IMG_3678](https://github.com/user-attachments/assets/4562f1a6-f375-461c-88b1-4c8e0635615c)
 recipe: https://sallysbakingaddiction.com/buche-de-noel-yule-log/
 
 ![IMG_6035](https://github.com/user-attachments/assets/ecb7d89b-8a37-4a00-bbb7-97c588510f80)
