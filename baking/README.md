@@ -7,4 +7,16 @@ In this project, we
 - implement several scikit-learn classifiers and compare validation accuracy to determine the best model
 - apply hyperparameter tuning to improve our model results
 
-And of course we can't leave without dropping some of my favorite recipes!
+And of course we can't leave without dropping some of my favorite recipes (shout out to Sally, she never steers me wrong)!
+
+![66464850121__8DB3CFC0-0296-4E88-8EFE-1C5B1A804EC7](https://github.com/user-attachments/assets/8f11f245-f20f-4806-8700-106bb167cfee)
+recipe: https://sallysbakingaddiction.com/chewy-chocolate-chip-cookies/
+
+![IMG_3678](https://github.com/user-attachments/assets/4562f1a6-f375-461c-88b1-4c8e0635615c)
+recipe: https://sallysbakingaddiction.com/buche-de-noel-yule-log/
+
+![IMG_6035](https://github.com/user-attachments/assets/ecb7d89b-8a37-4a00-bbb7-97c588510f80)
+recipe: https://sallysbakingaddiction.com/classic-peanut-butter-blossoms/
+
+![IMG_3963](https://github.com/user-attachments/assets/d4212a45-19f5-44d5-b093-5056bac754a7)
+I'll be honest this was box mix lol, but I did make the frosting from scratch! https://sallysbakingaddiction.com/strawberry-frosting/
