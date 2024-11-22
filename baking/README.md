@@ -9,9 +9,7 @@ In this project, we
 
 And of course we can't leave without dropping some of my favorite recipes (shout out to Sally, she never steers me wrong)!
 
-<img src="(https://github.com/user-attachments/assets/8f11f245-f20f-4806-8700-106bb167cfee)" width=50% height=50%>
-
-![66464850121__8DB3CFC0-0296-4E88-8EFE-1C5B1A804EC7](https://github.com/user-attachments/assets/8f11f245-f20f-4806-8700-106bb167cfee)
+<img src="(https://github.com/user-attachments/assets/8f11f245-f20f-4806-8700-106bb167cfee)" width=48px>
 recipe: https://sallysbakingaddiction.com/chewy-chocolate-chip-cookies/
 
 ![IMG_3678](https://github.com/user-attachments/assets/4562f1a6-f375-461c-88b1-4c8e0635615c)
