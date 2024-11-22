@@ -17,6 +17,6 @@ Repo dedicated to projects related to some of my interests:
 ## Baking
 - Multi-class classification of Cookies, Cake and Brownies based off of ingredients
 - NLP including regular expression Mmtching and feature engineering techniques
-- scikit-learn implementations of Multinomial Logistic Regression, KNN, Decision Tree and Random Forest classifier
+- scikit-learn implementations of Multinomial Logistic Regression, K Nearest Neighbor, Decision Tree and Random Forest classifiers
 - achieves test accuracy of 79% after hyperparameter tuning
 
