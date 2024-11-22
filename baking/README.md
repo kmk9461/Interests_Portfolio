@@ -9,7 +9,7 @@ In this project, we
 
 And of course we can't leave without dropping some of my favorite recipes (shout out to Sally, she never steers me wrong)!
 
-<img src="https://github.com/user-attachments/assets/8f11f245-f20f-4806-8700-106bb167cfee" width="400" height="600">
+<img src="https://github.com/user-attachments/assets/8f11f245-f20f-4806-8700-106bb167cfee" width="500" height="600">
 
 recipe: https://sallysbakingaddiction.com/chewy-chocolate-chip-cookies/
 
@@ -17,11 +17,11 @@ recipe: https://sallysbakingaddiction.com/chewy-chocolate-chip-cookies/
 
 recipe: https://sallysbakingaddiction.com/buche-de-noel-yule-log/
 
-<img src="https://github.com/user-attachments/assets/ecb7d89b-8a37-4a00-bbb7-97c588510f80" width="600" height="800">
+<img src="https://github.com/user-attachments/assets/ecb7d89b-8a37-4a00-bbb7-97c588510f80" width="500" height="600">
 
 recipe: https://sallysbakingaddiction.com/classic-peanut-butter-blossoms/
 
-<img src="https://github.com/user-attachments/assets/d4212a45-19f5-44d5-b093-5056bac754a7" width="600" height="800">
+<img src="https://github.com/user-attachments/assets/d4212a45-19f5-44d5-b093-5056bac754a7" width="500" height="600">
 
 I'll be honest this was box mix lol, but I did make the frosting from scratch! https://sallysbakingaddiction.com/strawberry-frosting/
 
