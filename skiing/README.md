@@ -9,7 +9,11 @@ In this project, we
 
 And before you go! Check out some of my favorite views from the mountains:
 
-![IMG_1687](https://github.com/user-attachments/assets/1520afe1-2f09-4fb5-b06c-ffc7167b24eb)
-![IMG_1735](https://github.com/user-attachments/assets/b6a49e67-bbb5-4fb8-946c-45c42853617f)
-![IMG_5347](https://github.com/user-attachments/assets/ffbdb363-2308-4cb5-bd90-2035b06af7a8)
-![IMG_1860](https://github.com/user-attachments/assets/28e9d901-71fe-4ba1-806c-b6bb157e3347)
+<img src="https://github.com/user-attachments/assets/1520afe1-2f09-4fb5-b06c-ffc7167b24eb" width="500" height="600">
+
+<img src="https://github.com/user-attachments/assets/b6a49e67-bbb5-4fb8-946c-45c42853617f" width="500" height="600">
+
+<img src="https://github.com/user-attachments/assets/ffbdb363-2308-4cb5-bd90-2035b06af7a8" width="500" height="600">
+
+<img src="https://github.com/user-attachments/assets/28e9d901-71fe-4ba1-806c-b6bb157e3347" width="500" height="600">
+
